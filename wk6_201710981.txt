@@ -1,0 +1,55 @@
+﻿import turtle
+wn=turtle.Screen()
+t1=turtle.Turtle()
+t1.penup()
+t1.goto(-200,200)
+t1.pendown()
+t1.goto(-150,200) 
+t1.goto(-200,150)
+t1.penup()
+t1.goto(-175,175)
+t1.pendown()
+t1.goto(-150,150) #ㅈ
+t1.penup()
+t1.goto(-150,175)
+t1.pendown()
+t1.goto(-130,175)
+t1.goto(-130,210)
+t1.goto(-130,140) #ㅓ
+t1.penup()
+t1.goto(-150,90)
+t1.pendown()
+t1.circle(25) #ㅇ
+t1.penup()
+t1.goto(-70,155)
+t1.pendown()
+t1.circle(20) #ㅇ
+t1.penup()
+t1.goto(-110,140)
+t1.pendown()
+t1.goto(-30,140) #ㅡ
+t1.penup()
+t1.goto(-90,130)
+t1.pendown()
+t1.goto(-90,90)
+t1.goto(-50,90) #ㄴ
+t1.penup()
+t1.goto(-20,200)
+t1.pendown()
+t1.goto(30,200)
+t1.goto(-20,150)
+t1.penup()
+t1.goto(5,175)
+t1.pendown()
+t1.goto(30,150) #ㅈ
+t1.penup()
+t1.goto(50,200)
+t1.pendown()
+t1.goto(50,130) #ㅣ
+t1.penup()
+t1.goto(5,130)
+t1.pendown()
+t1.goto(5,90)
+t1.goto(50,90) #ㄴ
+
+wn.exitonclick() #마지막
